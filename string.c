@@ -1,4 +1,4 @@
-//hello
+//hello there
 #include <string.h>
 //functions call
 int my_strlen(char *s){
